@@ -113,36 +113,40 @@ header .intro-text .name {
 }
 
 .file {
-    font-size: 6.25em;
+    font-size: 4.25em;
     margin: 30px;
-}
-
-.github {
-    font-size: 6.25em;
-    margin: 30px;
-}
-
-.linkedin {
-    font-size: 6.25em;
-    margin: 30px;
-  background:transparent;
+    background:transparent;
   padding:20px;
-  -webkit-border-radius:1100%;
-  -moz-border-radius:100%;
-  -o-border-radius:100%;
   border-radius:100%;
   border:2px solid #fff;
   color:#fff;
   text-align:center;
-  display:table-cell;
-  vertical-align:middle;
-  width:60px;
-  height:60px;
-  -moz-transition:.5s;
-  -webkit-transition:.5s;
-  -o-transition:.5s;
-  transition:.5s;
-    z-index: 10 px;
+    vertical-align:middle;
+}
+
+.github {
+    font-size: 4.25em;
+    margin: 30px;
+    background:transparent;
+  padding:20px;
+  border-radius:100%;
+  border:2px solid #fff;
+  color:#fff;
+  text-align:center;
+    vertical-align:middle;
+}
+
+.linkedin {
+    font-size: 4.25em;
+    margin: 30px;
+  background:transparent;
+  padding:20px;
+  border-radius:100%;
+  border:2px solid #fff;
+  color:#fff;
+  text-align:center;
+    vertical-align:middle;
+  
 }
 
 header .intro-text .skills {
