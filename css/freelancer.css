@@ -112,6 +112,39 @@ header .intro-text .name {
     font-weight: 700;
 }
 
+.file {
+    font-size: 6.25em;
+    margin: 30px;
+}
+
+.github {
+    font-size: 6.25em;
+    margin: 30px;
+}
+
+.linkedin {
+    font-size: 6.25em;
+    margin: 30px;
+  background:transparent;
+  padding:20px;
+  -webkit-border-radius:1100%;
+  -moz-border-radius:100%;
+  -o-border-radius:100%;
+  border-radius:100%;
+  border:2px solid #fff;
+  color:#fff;
+  text-align:center;
+  display:table-cell;
+  vertical-align:middle;
+  width:60px;
+  height:60px;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  -o-transition:.5s;
+  transition:.5s;
+    z-index: 10 px;
+}
+
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
