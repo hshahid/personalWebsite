@@ -149,6 +149,18 @@ header .intro-text .name {
   
 }
 
+.linkedin:hover {
+  background:rgba(255,255,255, 0.3);
+}
+
+.github:hover {
+  background:rgba(255,255,255, 0.3);
+}
+
+.file:hover {
+  background:rgba(255,255,255, 0.3);
+}
+
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
