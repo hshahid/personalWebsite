@@ -166,6 +166,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header .intro-text .skillsBold {
+    font-size: 2.00em;
+    font-weight: 300;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
